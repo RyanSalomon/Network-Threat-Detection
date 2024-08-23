@@ -1,4 +1,4 @@
-# Malware-C2-Detection
+# Network-Threat-Detection
 
 ## Objective
 
