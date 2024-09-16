@@ -1,4 +1,4 @@
-# Network-Threat-Detection
+# Network-Trojan-Detection
 
 ## Objective
 
