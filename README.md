@@ -95,5 +95,9 @@ Visuals: VirusTotal analysis of the payload.
 
 ![image](https://github.com/user-attachments/assets/00fabd9d-cc1b-4af4-8941-a0c4568e9c1a) 
 
+## Conclusion
+
+This project successfully identified a network trojan and its associated activities, including the detection of potential corporate privacy violations. By utilizing BRIM, NetworkMiner, and VirusTotal, we were able to trace the malicious file back to its source and identify the payload, highlighting the importance of thorough network traffic analysis in cybersecurity defense.
+
 
 
